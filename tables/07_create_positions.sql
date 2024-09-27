@@ -1,0 +1,8 @@
+-- SQLite
+
+-- Criando cargos
+
+CREATE TABLE POSITIONS (
+    ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    DESCRIPTION varchar(120) NOT NULL
+);
