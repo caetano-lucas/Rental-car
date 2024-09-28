@@ -1,0 +1,5 @@
+-- SQLite
+
+
+UPDATE CARS SET YEAR = 2019
+    WHERE NAME = 'Fiat Cronos' AND YEAR = 2022;
